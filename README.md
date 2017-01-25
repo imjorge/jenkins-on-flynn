@@ -17,4 +17,4 @@ It looks something like `e7af1c1f1574b548febd50e1bafb90b`.
 
 Go to http://jenkins.$CLUSTER_DOMAIN and enter the login token. Then configure Jenkins.
 
-Bare in mind that, until Flynn gets permanent volumes, this is ephemeral.
+Bare in mind that, until Flynn gets [persistent volumes](https://github.com/flynn/flynn/issues/2438), this is ephemeral.
